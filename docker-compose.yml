@@ -1,0 +1,35 @@
+version: '3.7'
+
+services:
+  mysql:
+    image: mysql:8.0.37
+    container_name: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: 1234
+      MYSQL_DATABASE: fisa
+      MYSQL_USER: username
+      MYSQL_PASSWORD: username
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./mysql_data:/var/lib/mysql
+
+  elasticsearch:
+    image: elasticsearch:7.11.1
+    container_name: elasticsearch
+    environment:
+      discovery.type: single-node
+      ES_JAVA_OPTS: "-Xms512m -Xmx512m"
+    ports:
+      - "9200:9200"
+    volumes:
+      - ./es_data:/usr/share/elasticsearch/data
+
+  logstash:
+    image: logstash:7.11.1
+    container_name: logstash
+    ports:
+      - "5044:5044"
+    volumes:
+      - ./logstash-config:/usr/share/logstash/config
+      - ./logstash-pipeline:/usr/share/logstash/pipeline
