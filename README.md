@@ -47,8 +47,7 @@ JDBC 연동, ELK 스택 활용하여 실시간 데이터 파이프라인 구축 
 
 #### 🧧<a href="logstash/conf/titanic.conf">Link</a>
 
-
-![image](https://github.com/user-attachments/assets/c4bc057d-cb94-4448-91da-65e90a6b9e3a)
+![image](https://github.com/user-attachments/assets/4220db2f-370a-494d-9623-592bf2a220f6)
 
 ![image](https://github.com/user-attachments/assets/fecd6e64-79df-4dd5-b108-72fe3b921fa9)
     
