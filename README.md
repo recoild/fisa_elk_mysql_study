@@ -18,13 +18,13 @@ JDBC 연동, ELK 스택 활용하여 실시간 데이터 파이프라인 구축 
 
 ## 작업 과정
 
-1. DBeaver에서 테이블 스키마 생성, SQL 작성
+### 1. DBeaver에서 테이블 스키마 생성, SQL 작성👍
 
 <div align="center">
     <img src="github_images/erd.png" alt="작업 과정">
 </div>
 
-2. JDBC 연동하는 서비스 코드 작성<br><br>
+### 2. JDBC 연동하는 서비스 코드 작성🍕<br><br>
 
 <div align="center">
     <img src="github_images/서비스_코드_작성.png" alt="작업 과정">
@@ -33,18 +33,20 @@ JDBC 연동, ELK 스택 활용하여 실시간 데이터 파이프라인 구축 
 <div align="center">
     <img src="github_images/테스트_코드.png" alt="작업 과정">
 </div>
-<br>
-3. elk파이프라인 구축.<br><br>
+
+### 3. ELK 파이프라인 구축🥩
  <div align="center">
      <img src="github_images/elk실행장면.png" alt="작업 과정">
- </div><br>
-4. logstash config 작성<br><br>
-<a href="logstash/conf/titanic.conf">링크</a>
+ </div>
+
+### 4. logstash config 작성👓
+#### 🧧<a href="logstash/conf/titanic.conf">Link</a>
 <div align="center">
     <img src="github_images/logstash_config.png" alt="작업 과정">
 </div>
-<br>
-5. kibana 시각화 수행<br><br>
+
+### 5. kibana 시각화 수행✨
+
 <div align="center">
     <img src="github_images/kibana_dashboard.png" alt="작업 과정">
 </div>
