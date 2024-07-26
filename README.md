@@ -24,6 +24,7 @@ JDBC 연동, ELK 스택 활용하여 실시간 데이터 파이프라인 구축 
 <div align="center">
     <img src="github_images/erd.png" alt="작업 과정">
 </div>
+![image](https://github.com/user-attachments/assets/5d9f62f9-3663-458f-9026-3b9de8d3ddc5)
 
 ### 2. JDBC 연동하는 서비스 코드 작성🍕<br><br>
 
