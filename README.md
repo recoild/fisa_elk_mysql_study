@@ -4,7 +4,7 @@
 
 | <img src="https://avatars.githubusercontent.com/u/22585023?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/64997345?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/102151689?v=4" width="150" height="150"/> |
 | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-|                           [@recoild](https://github.com/recoild)                           |              Young_Ha Choi<br/>[@ChoiYoungHa](https://github.com/ChoiYoungHa)              |                            [@0lYUMA](https://github.com/0lYUMA)                             |
+|                           [@recoild](https://github.com/recoild)                           |             [@ChoiYoungHa](https://github.com/ChoiYoungHa)              |                            [@0lYUMA](https://github.com/0lYUMA)                             |
 
 ## 프로젝트 개요
 
