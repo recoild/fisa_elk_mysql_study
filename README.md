@@ -47,8 +47,12 @@ JDBC 연동, ELK 스택 활용하여 실시간 데이터 파이프라인 구축 
 
 <div align="center">
     <img src="github_images/logstash_config.png" alt="작업 과정">
+    
+
 </div>
 
+![image](https://github.com/user-attachments/assets/fecd6e64-79df-4dd5-b108-72fe3b921fa9)
+    
 ### 5. kibana 시각화 수행✨
 
 <div align="center">
