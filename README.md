@@ -4,7 +4,7 @@
 
 | <img src="https://avatars.githubusercontent.com/u/22585023?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/64997345?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/102151689?v=4" width="150" height="150"/> |
 | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-|                           [@recoild](https://github.com/recoild)                           |             [@ChoiYoungHa](https://github.com/ChoiYoungHa)              |                            [@0lYUMA](https://github.com/0lYUMA)                             |
+|                           [@recoild](https://github.com/recoild)                           |                       [@ChoiYoungHa](https://github.com/ChoiYoungHa)                       |                            [@0lYUMA](https://github.com/0lYUMA)                             |
 
 ## 프로젝트 개요😮
 
@@ -36,12 +36,15 @@ JDBC 연동, ELK 스택 활용하여 실시간 데이터 파이프라인 구축 
 </div>
 
 ### 3. ELK 파이프라인 구축🥩
+
  <div align="center">
      <img src="github_images/elk실행장면.png" alt="작업 과정">
  </div>
 
 ### 4. logstash config 작성👓
+
 #### 🧧<a href="logstash/conf/titanic.conf">Link</a>
+
 <div align="center">
     <img src="github_images/logstash_config.png" alt="작업 과정">
 </div>
@@ -50,4 +53,12 @@ JDBC 연동, ELK 스택 활용하여 실시간 데이터 파이프라인 구축 
 
 <div align="center">
     <img src="github_images/kibana_dashboard.png" alt="작업 과정">
+</div>
+
+<br>
+
+## 시연 화면
+
+<div align="center">
+    <img src="github_images/시연화면.png" alt="작업 과정">
 </div>
