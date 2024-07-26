@@ -1,7 +1,10 @@
 import org.junit.Before;
 import org.junit.Test;
 
+import com.example.titanic.TitanicService;
 import com.example.utils.DBUtil;
+
+import lombok.RequiredArgsConstructor;
 
 import java.io.FileInputStream;
 import java.sql.Connection;
@@ -11,7 +14,13 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Properties;
 
+// @RequiredArgsConstructor
 public class ConnectTest {
+    private final TitanicService titanicService;
+
+    ConnectTest() {
+        titanicService = new TitanicService();
+    }
     // private String driver;
     // private String url;
     // private String username;
@@ -133,4 +142,5 @@ public class ConnectTest {
             e.printStackTrace();
         }
     }
+
 }

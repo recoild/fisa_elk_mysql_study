@@ -1,0 +1,1 @@
+{"resources":{"titanic_group.sql":{"default-datasource":"mysql8-190ecdf9736-71e6b005f14987c6","default-catalog":"fisa"},"titanic_schema.sql":{"default-datasource":"mysql8-190ecdf9736-71e6b005f14987c6","default-catalog":"fisa"}}}
